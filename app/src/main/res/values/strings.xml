@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayoutTask</string>
+    <string name="name">Ahmed Nasser</string>
+    <string name="time_content">3 hr</string>
+    <string name="job_title">Engineer</string>
+    <string name="nationality">Russian</string>
+    <string name="location">UK</string>
+    <string name="Period">5 days ago</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="rating">4.5</string>
+</resources>
